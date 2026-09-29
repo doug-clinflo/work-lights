@@ -1,0 +1,11 @@
+.DS_Store
+build/
+dist/
+*.app/
+*.zip
+*.dSYM/
+configuration.json
+bulbs.json
+bulbs.txt
+.env
+.env.*
